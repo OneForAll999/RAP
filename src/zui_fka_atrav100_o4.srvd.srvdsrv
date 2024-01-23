@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZC_FKA_ATRAV100'
+define service ZUI_FKA_ATRAV100_O4 {
+  expose ZC_FKA_ATRAV100 as Travel;
+}
